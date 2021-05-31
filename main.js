@@ -45,5 +45,5 @@ client.on('message', message =>{
 }); 
 
 //Give access or Log in to my Discord Application
-client.login('ODQ4ODkwNjYxMjk3MzI0MDQz.YLTNCQ.Kt5EEU7QDW0MW3sUfil1AMjAr08')
+client.login('')
 
